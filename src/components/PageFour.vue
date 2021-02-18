@@ -6,13 +6,13 @@
 
       <div class="col-md-12 my-5 fondo">
         <div class="row d-flex justify-content-center">
-          <div class="col-md-7 fondo my-3 mr-3 fondo-light">
+          <div class="col-md-7 col-12 fondo my-3 mr-3 fondo-light">
             <PageFourChart></PageFourChart>
           </div>
 
-          <div class="col-md-4 fondo my-3">
+          <div class="col-md-4 col-12 fondo my-3">
             <div class="row">
-              <div class="col-md-12 text-center fondo-light py-3">
+              <div class="col-md-12 col-12 text-center fondo-light py-3">
                 <PageFourPeriodo></PageFourPeriodo>
               </div>
               <div class="d-flex justify-content-center col-md-12 my-4">
@@ -21,15 +21,15 @@
                 </h6>
               </div>
               <!-- Por Finalizar -->
-              <div class="col-md-4 fondo-light py-3">
+              <div class="col-md-4 col-12 fondo-light py-3">
                 <PageFourFinish></PageFourFinish>
               </div>
               <!-- Por Consumo -->
-              <div class="col-md-4  fondo-light py-3">
+              <div class="col-md-4 col-12 fondo-light py-3">
                 <PageFourConsumo></PageFourConsumo>
               </div>
               <!-- Por Presupuesto -->
-              <div class="col-md-4 fondo-light py-3">
+              <div class="col-md-4 col-12 fondo-light py-3">
                 <PageFourBudget></PageFourBudget>
               </div>
             </div>

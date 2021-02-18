@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p class="text-roboto-bold p-3 text-left text-color">
+    <p class="text-roboto-bold text-left text-color">
       ÚLTIMOS EDPs
     </p>
     <vue-table-dynamic
